@@ -1,4 +1,4 @@
-
+import json
 
 def load_notes(NOTES_FILE):
     try:
